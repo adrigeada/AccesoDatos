@@ -22,7 +22,7 @@ public class JsonUtils {
         // clase de utilidades: no se instancia
     }
 
-    // ----- Unidad 1: una canción suelta -----
+    // ----- Unidad 1: una canción suelta ----
 
     public static String exportarCancion(Cancion cancion) {
         // TODO: implementar con Gson (unidad 1, ejercicio 3).
